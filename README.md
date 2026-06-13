@@ -1,10 +1,6 @@
 <div align="center">
 
-# PRAJEETH RAJ R
-
-### `AI & DATA SCIENCE · MERN DEVELOPER · DEEP LEARNING`
-
-![](https://img.shields.io/badge/─────────────────────────────────────────-6A5ACD?style=flat&labelColor=6A5ACD)
+<img src="./header.svg" width="800" alt="Prajeeth Raj R"/>
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-1514-FFA116?style=flat&logo=leetcode&logoColor=FFA116&labelColor=0d1117)](https://leetcode.com/prajeeth-raj)
 [![CodeChef](https://img.shields.io/badge/CodeChef-1428-white?style=flat&logo=codechef&logoColor=white&labelColor=0d1117)](https://codechef.com/users/prajeeth-raj)
