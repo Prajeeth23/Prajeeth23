@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=0&pause=0&color=E6EDF3&center=true&vCenter=true&repeat=false&width=500&lines=PRAJEETH+RAJ+R" alt="PRAJEETH RAJ R" />
+# PRAJEETH RAJ R
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=0&pause=0&color=7D8590&center=true&vCenter=true&repeat=false&width=600&lines=AI+%26+DATA+SCIENCE+·+MERN+DEVELOPER+·+DEEP+LEARNING" alt="roles" />
+### `AI & DATA SCIENCE · MERN DEVELOPER · DEEP LEARNING`
 
-![divider](https://img.shields.io/badge/──────────────────────────────-6A5ACD?style=flat&labelColor=6A5ACD)
+![](https://img.shields.io/badge/─────────────────────────────────────────-6A5ACD?style=flat&labelColor=6A5ACD)
 
-[![LeetCode](https://img.shields.io/badge/leetcode%201514-0d1117?style=flat&logo=leetcode&logoColor=FFA116&labelColor=0d1117)](https://leetcode.com/prajeeth-raj)
-[![CodeChef](https://img.shields.io/badge/codechef%201428-0d1117?style=flat&logo=codechef&logoColor=white&labelColor=0d1117)](https://codechef.com/users/prajeeth-raj)
-[![Problems](https://img.shields.io/badge/450%2B%20problems-0d1117?style=flat&logo=thealgorithms&logoColor=6A5ACD&labelColor=0d1117)](https://github.com/prajeeth-raj)
-[![Intern](https://img.shields.io/badge/LYSA%20Solution%20intern-0d1117?style=flat&logo=briefcase&logoColor=8b949e&labelColor=0d1117)](https://github.com/prajeeth-raj)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1514-FFA116?style=flat&logo=leetcode&logoColor=FFA116&labelColor=0d1117)](https://leetcode.com/prajeeth-raj)
+[![CodeChef](https://img.shields.io/badge/CodeChef-1428-white?style=flat&logo=codechef&logoColor=white&labelColor=0d1117)](https://codechef.com/users/prajeeth-raj)
+[![Problems](https://img.shields.io/badge/Problems-450%2B-6A5ACD?style=flat&logo=thealgorithms&logoColor=6A5ACD&labelColor=0d1117)](https://github.com/shanks5017)
+[![Intern](https://img.shields.io/badge/LYSA%20Solution-Intern-8b949e?style=flat&logoColor=8b949e&labelColor=0d1117)](https://github.com/shanks5017)
 
 </div>
 
